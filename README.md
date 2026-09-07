@@ -17,6 +17,8 @@ ________________________________________
 •	PC2 and PC3 belong to VLAN 20 (192.168.20.0/24)<br>
 •	Switch connected to Router via a trunk port (FastEthernet0/1 on switch → GigabitEthernet0/0 on router)<br>
 •	Router subinterfaces handle VLAN routing<br>
+<img width="501" height="351" alt="image" src="https://github.com/user-attachments/assets/d36dbe87-9976-4e5c-9b77-9c3a2ecb69a4" />
+
 (Insert screenshot of your Packet Tracer setup here)<br>
 ________________________________________
 # IP Addressing Table
@@ -88,6 +90,9 @@ ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on the switch<br>
 •	Router subinterface configuration<br>
+<img width="582" height="592" alt="image" src="https://github.com/user-attachments/assets/c5e2ae30-64e3-48a5-816a-0e49f7661727" />
+<img width="308" height="300" alt="image" src="https://github.com/user-attachments/assets/f845d8ca-088f-46e1-b436-1f17d1569ec1" />
+
 •	PC IP settings<br>
 •	Successful ping between PCs in different VLANs after routing<br>
 •	Successful ping between PCs in the same VLAN<br>
